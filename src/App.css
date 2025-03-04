@@ -286,6 +286,8 @@ body {
     flex-direction: column; /* Arrange checkboxes vertically */
     margin-bottom: 20px;
   }
+
+  
   
   /* Style each checkbox and its label */
   .checkbox-group input[type="checkbox"] {
