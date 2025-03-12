@@ -11,7 +11,7 @@ function App() {
         <div>
           <div id="chat-circle">
   <div className="chef" id="chef">
-    <img id="logo-image" src="new_logo.gif" alt="Logo" />
+    <img id="logo-image" src="./new_logo.gif" alt="Logo" />
   </div>
 </div>
 
@@ -19,7 +19,7 @@ function App() {
           <div className="chat-box">
             <div className="chat-box-header">
               <span className="chat-box-toggle"><button className="material-icons">&#x2212;</button></span>
-              <p style={{ fontWeight: "bold", fontSize: "23px" }}>The Stir dddAssistant</p>
+              <p style={{ fontWeight: "bold", fontSize: "23px" }}>The Stir Assistant</p>
 
              <button id="clearHistoryButton">
                 <span className="fa">&#8634;</span>
