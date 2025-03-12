@@ -26,7 +26,7 @@ document.addEventListener("readystatechange", function (event) {
         today = mm + '/' + dd + '/' + yyyy;
 
         // Add click event listener to the chef logo
-document.getElementById("logo-image").addEventListener("click", () => {
+document.getElementById("chat-circle").addEventListener("click", () => {
     // Get help text element
     const helpText = document.querySelector(".help-text");
     // If help text exists, start animation
