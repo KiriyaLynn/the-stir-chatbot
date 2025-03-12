@@ -11,7 +11,7 @@ function App() {
         <div>
           <div id="chat-circle">
   <div className="chef" id="chef">
-    <img id="logo-image" src="./bg.jpeg" alt="Logo" />
+    <img id="logo-image" src="./bg.jpeg" />
   </div>
 </div>
 
